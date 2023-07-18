@@ -78,4 +78,7 @@ img {
   display: block;
   margin: 1.5rem auto 2.3rem;
 }
+.banner_info img {
+  margin-bottom: 2em;
+}
 /* Header banner style end */
