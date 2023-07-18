@@ -26,4 +26,32 @@
     margin: 2rem 0;
   }
   /* Media query for feature area end  */
+
+  /* Media query for experience area start */
+  .experience_area {
+    flex-direction: column;
+  }
+  .experience_left_info {
+    width: 100%;
+  }
+
+  .experience_right_img_btn {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .experience_btn {
+    padding: 1.5rem 2rem;
+    top: -4rem;
+    left: -3.5rem;
+  }
+  .exp_btn_txt {
+    font-size: 2rem;
+    font-weight: 700;
+  }
+  .experience_left_info {
+    padding-right: 0;
+    margin: 0 auto;
+  }
+
+  /* Media query for experience area end */
 }
