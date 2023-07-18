@@ -214,3 +214,19 @@ img {
   width: 130px;
 }
 /* Sponsor area style end */
+
+/* Footer style start */
+.footer_area {
+  margin-top: 70px;
+  height: 100px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer_area p {
+  width: 50%;
+  text-align: center;
+}
+
+/* Footer style end */

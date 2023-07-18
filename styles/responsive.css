@@ -65,5 +65,15 @@
   .sponsor_img {
     justify-content: space-around;
   }
+  .sponsors_area p {
+    width: 100%;
+  }
   /* Media query for sponsors area end */
+
+  /* Media query for footer start */
+  .footer_area p {
+    width: 50%;
+    text-align: center;
+  }
+  /* Media query for footer end */
 }
