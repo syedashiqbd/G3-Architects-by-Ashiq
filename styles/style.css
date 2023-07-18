@@ -162,6 +162,8 @@ img {
 .fact_cards {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 2rem;
 }
 .fact_area p {
   margin: 1.5rem 0 6.5rem;

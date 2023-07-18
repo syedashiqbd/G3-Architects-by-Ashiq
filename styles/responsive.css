@@ -54,4 +54,10 @@
   }
 
   /* Media query for experience area end */
+  /* Media query of rFacts area start  */
+  .fact_area p {
+    margin: 2rem 0 3rem;
+    width: 70vw;
+  }
+  /* Media query of rFacts area end  */
 }
