@@ -192,5 +192,25 @@ img {
   font-size: 0.9;
   font-weight: 600;
 }
-
 /* Fact area style end */
+
+/* Sponsor area style start */
+.sponsors_area {
+  margin-top: 6rem;
+  text-align: center;
+}
+.sponsors_area p {
+  width: 500px;
+  margin: 1.5rem auto 2.5rem;
+}
+.sponsor_img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+.sponsor_img img {
+  width: 130px;
+}
+/* Sponsor area style end */

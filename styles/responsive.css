@@ -59,5 +59,11 @@
     margin: 2rem 0 3rem;
     width: 70vw;
   }
-  /* Media query of rFacts area end  */
+  /* Media query for Facts area end  */
+
+  /* Media query for sponsors area start */
+  .sponsor_img {
+    justify-content: space-around;
+  }
+  /* Media query for sponsors area end */
 }
