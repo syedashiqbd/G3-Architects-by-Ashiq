@@ -16,6 +16,7 @@
   /* Media query for feature area start  */
   .feature_area {
     flex-direction: column;
+    margin-bottom: 3rem;
   }
   .feature_left_img,
   .feature_right_info {

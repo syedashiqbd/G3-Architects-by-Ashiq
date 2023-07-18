@@ -90,7 +90,7 @@ img {
 }
 .feature_area {
   display: flex;
-  margin: 4rem auto 6rem;
+  margin: 4rem auto 5rem;
 }
 .feature_left_img {
   display: flex;
