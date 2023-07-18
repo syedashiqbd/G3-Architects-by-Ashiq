@@ -1,0 +1,16 @@
+/* Responsive for mobile device */
+@media screen and (max-width: 576px) {
+  /* header responsive start */
+  .nav_banner_area {
+    flex-direction: column;
+    gap: 0.8rem;
+  }
+  .banner_top {
+    width: 75vw;
+  }
+  .banner_top h1 {
+    font-size: 40px;
+    margin: 2rem auto 1rem;
+  }
+  /* header responsive end */
+}
