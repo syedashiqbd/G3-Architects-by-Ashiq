@@ -82,3 +82,34 @@ img {
   margin-bottom: 2em;
 }
 /* Header banner style end */
+
+/* Feature area style start */
+.feature_left_img,
+.feature_right_info {
+  width: 50%;
+}
+.feature_area {
+  display: flex;
+  margin: 4rem auto 6rem;
+}
+.feature_left_img {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+.feature_left_img img {
+  max-width: calc(50% - 0.8rem);
+}
+.feature_right_info {
+  margin: auto 2rem;
+}
+.qick_txt_clr {
+  color: #727272;
+}
+.ftr_txt_clr {
+  color: #ff900e;
+}
+.feature_right_info p {
+  margin: 1.5rem 0;
+}
+/* Feature area style end */
