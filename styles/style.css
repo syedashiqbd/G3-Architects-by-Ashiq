@@ -157,3 +157,38 @@ img {
 }
 
 /* Experience area style end */
+
+/* Fact area style start */
+.fact_cards {
+  display: flex;
+  justify-content: space-around;
+}
+.fact_area p {
+  margin: 1.5rem 0 6.5rem;
+  width: 25vw;
+}
+.card img {
+  width: 30%;
+}
+.card {
+  width: 180px;
+  height: 180px;
+  border-radius: 8px;
+  border: 1px solid #ff900e;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0.3rem;
+}
+.card h2 {
+  color: #424242;
+}
+.card h5 {
+  color: #727272;
+  font-size: 0.9;
+  font-weight: 600;
+}
+
+/* Fact area style end */
